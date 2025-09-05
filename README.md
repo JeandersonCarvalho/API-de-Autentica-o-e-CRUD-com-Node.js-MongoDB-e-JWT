@@ -50,6 +50,9 @@ src/
 │   ├─ authRoutes.js
 │   └─ modelRoutes.js
 |
+├─ test/
+│   └─ Teste_API.postman_collection.json
+|
 ├─ utils/
 │   └─ token.js
 │
